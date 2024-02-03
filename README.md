@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mmarapperuma" target="blank"><img src="https://img.shields.io/twitter/follow/mmarapperuma?logo=twitter&style=for-the-badge" alt="mmarapperuma" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 📫 How to reach me **marapperuma1@gmail.com**
 
