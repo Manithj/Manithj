@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 📫 How to reach me **https://linktr.ee/manithj**
+- 📫 Reach me at **https://linktr.ee/manithj**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manithj&show_icons=true&locale=en&layout=compact" alt="manithj" /></p>
 
