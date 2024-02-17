@@ -7,15 +7,6 @@
 
 - 📫 How to reach me **https://linktr.ee/manithj**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mmarapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmarapperuma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manith marapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manith marapperuma" height="30" width="40" /></a>
-<a href="https://fb.com/manith marapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manith marapperuma" height="30" width="40" /></a>
-<a href="https://instagram.com/manith marapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manith marapperuma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manith_jayaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manith_jayaba" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manithj&show_icons=true&locale=en&layout=compact" alt="manithj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manithj&show_icons=true&locale=en" alt="manithj" /></p>
