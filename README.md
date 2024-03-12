@@ -41,4 +41,4 @@
 </a>
 
 
-![Manith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manithj&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![Manith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manithj&custom_title=Manith's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/Manithj)
