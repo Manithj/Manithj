@@ -22,23 +22,19 @@
 <hr/>
 <br/>
 
+
+
+<a> 
+    <a href="https://github.com/Manithj"><img alt="Manith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Manithj&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Manithj"><img alt="Manith's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Manithj&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 <p align="center">
   <a href="https://github.com/Manithj">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manithj&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Manithj">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manithj&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/Manithj"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Manithj&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Manithj"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Manithj&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 
 [![Manith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manithj&custom_title=Manith's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/Manithj)
