@@ -7,12 +7,6 @@
 
 - 📫 Reach me at **https://linktr.ee/manithj**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manithj&show_icons=true&locale=en&layout=compact" alt="manithj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manithj&show_icons=true&locale=en" alt="manithj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manithj&" alt="manithj" /></p>
-
 
 <p align="left">
   <a href="https://github.com/Manithj?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
