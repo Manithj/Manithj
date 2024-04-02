@@ -13,4 +13,4 @@
 </p>
 <hr/>
 
-<p align="center"><img src="img/bg.gif"></p>
+<p align="center"><img src="img/ai1.gif"></p>
