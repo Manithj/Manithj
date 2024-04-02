@@ -8,7 +8,7 @@
 - 📫 Reach me at **https://linktr.ee/manithj**
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Manithj?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <p align="center"><img src="img/ai2.gif"></p>
