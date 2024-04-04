@@ -13,4 +13,4 @@
 </p>
 <hr/>
 
-<p align="center"><img src="img/ai2.gif"></p>
+<p align="center"><img src="img/greek.jpg"></p>
