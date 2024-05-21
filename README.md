@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 📫 Reach me at **https://linktr.ee/manithj**
+- 📫 Reach me at **https://manith.me/**
 
 
 <p align="left">
